@@ -1,6 +1,7 @@
 # ML_Task
 
-##Problem 1:
+## Problem 1:
+
 Convolutional neural networks have been really popular in different domains like Images, Time
 series etc. Use the ‘ChlorineConcentration’ dataset from the attachment and design a classifier
 using CNN. The training and test samples ratio should be 70% and 30% respectively. The
@@ -8,7 +9,8 @@ minimum expected test accuracy is 90%.
 Feel free to try with different hyperparameters and include all the insights in your
 documentation.
 
-##Problem 2:
+## Problem 2:
+
 Autoencoder is a very popular deep learning model for unsupervised learning. The most
 amazing fact about Autoencoder is, it has capability of representing data in low dimensional
 space and extracting interesting patterns. Use Autoencoder to perform clustering over
